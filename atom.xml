@@ -1,0 +1,1946 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZThought</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.ztfer.com/"/>
+  <updated>2017-01-06T04:20:48.000Z</updated>
+  <id>http://www.ztfer.com/</id>
+  
+  <author>
+    <name>ZTfer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>中英文互译参考</title>
+    <link href="http://www.ztfer.com/2017/01/06/%E4%B8%AD%E8%8B%B1%E6%96%87%E4%BA%92%E8%AF%91%E5%8F%82%E8%80%83/"/>
+    <id>http://www.ztfer.com/2017/01/06/中英文互译参考/</id>
+    <published>2017-01-06T04:18:31.000Z</published>
+    <updated>2017-01-06T04:20:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="中英文互译参考"><a href="#中英文互译参考" class="headerlink" title="中英文互译参考"></a>中英文互译参考</h1><h3 id="页面结构"><a href="#页面结构" class="headerlink" title="页面结构"></a>页面结构</h3><table>
+<thead>
+<tr>
+<th>中文</th>
+<th>英文</th>
+<th>简写</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>布局</td>
+<td>layout</td>
+<td>-</td>
+</tr>
+<tr>
+<td>栅格</td>
+<td>grid</td>
+<td>-</td>
+</tr>
+<tr>
+<td>排版</td>
+<td>typography</td>
+<td>-</td>
+</tr>
+<tr>
+<td>组件</td>
+<td>component</td>
+<td>-</td>
+</tr>
+<tr>
+<td>容器</td>
+<td>container</td>
+<td>-</td>
+</tr>
+<tr>
+<td>头</td>
+<td>header</td>
+<td>-</td>
+</tr>
+<tr>
+<td>侧栏</td>
+<td>sidebar</td>
+<td>-</td>
+</tr>
+<tr>
+<td>主体</td>
+<td>main</td>
+<td>-</td>
+</tr>
+<tr>
+<td>脚</td>
+<td>footer</td>
+<td>-</td>
+</tr>
+<tr>
+<td>行</td>
+<td>row</td>
+<td>-</td>
+</tr>
+<tr>
+<td>栏，栏目</td>
+<td>column</td>
+<td>col</td>
+</tr>
+<tr>
+<td>页面外围控制整体布局宽度</td>
+<td>wrap</td>
+<td>-</td>
+</tr>
+<tr>
+<td>内容</td>
+<td>content</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h3 id="导航"><a href="#导航" class="headerlink" title="导航"></a>导航</h3><table>
+<thead>
+<tr>
+<th>中文</th>
+<th>英文</th>
+<th>简写</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>导航</td>
+<td>navgation</td>
+<td>nav</td>
+</tr>
+<tr>
+<td>子导航</td>
+<td>subnav</td>
+<td>-</td>
+</tr>
+<tr>
+<td>菜单</td>
+<td>menu</td>
+<td>-</td>
+</tr>
+<tr>
+<td>子菜单</td>
+<td>submenu</td>
+<td>-</td>
+</tr>
+<tr>
+<td>下拉菜单</td>
+<td>dropdown</td>
+<td>-</td>
+</tr>
+<tr>
+<td>条目</td>
+<td>item</td>
+<td>-</td>
+</tr>
+<tr>
+<td>标题</td>
+<td>title</td>
+<td>-</td>
+</tr>
+<tr>
+<td>面包屑</td>
+<td>breadcrumb</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h3 id="组件"><a href="#组件" class="headerlink" title="组件"></a>组件</h3><table>
+<thead>
+<tr>
+<th>中文</th>
+<th>英文</th>
+<th>简写</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>轮播图</td>
+<td>carousel</td>
+<td>-</td>
+</tr>
+<tr>
+<td>提示点</td>
+<td>indicator</td>
+<td>-</td>
+</tr>
+<tr>
+<td>步骤条</td>
+<td>step</td>
+<td>-</td>
+</tr>
+<tr>
+<td>标签页</td>
+<td>tab</td>
+<td>-</td>
+</tr>
+<tr>
+<td>表单</td>
+<td>form</td>
+<td>-</td>
+</tr>
+<tr>
+<td>输入框</td>
+<td>input</td>
+<td>-</td>
+</tr>
+<tr>
+<td>多选</td>
+<td>checkbox</td>
+<td>-</td>
+</tr>
+<tr>
+<td>单选</td>
+<td>radio</td>
+<td>-</td>
+</tr>
+<tr>
+<td>开关</td>
+<td>switch</td>
+<td>-</td>
+</tr>
+<tr>
+<td>时间选择</td>
+<td>datepicker</td>
+<td>-</td>
+</tr>
+<tr>
+<td>日历</td>
+<td>calendar</td>
+<td>-</td>
+</tr>
+<tr>
+<td>折叠面板</td>
+<td>collapse</td>
+<td>-</td>
+</tr>
+<tr>
+<td>气泡卡片</td>
+<td>popover</td>
+<td>-</td>
+</tr>
+<tr>
+<td>气泡确认</td>
+<td>popconfirm</td>
+<td>-</td>
+</tr>
+<tr>
+<td>进度</td>
+<td>progress</td>
+<td>-</td>
+</tr>
+<tr>
+<td>进度条</td>
+<td>progressbar</td>
+<td>progress</td>
+</tr>
+<tr>
+<td>加载中</td>
+<td>spin</td>
+<td>-</td>
+</tr>
+<tr>
+<td>模态框</td>
+<td>modal</td>
+<td>-</td>
+</tr>
+<tr>
+<td>文字提示</td>
+<td>tooltips</td>
+<td>-</td>
+</tr>
+<tr>
+<td>评分</td>
+<td>rate</td>
+<td>-</td>
+</tr>
+<tr>
+<td>卡片</td>
+<td>card</td>
+<td>-</td>
+</tr>
+<tr>
+<td>表格</td>
+<td>table</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h3 id="页面元素"><a href="#页面元素" class="headerlink" title="页面元素"></a>页面元素</h3><table>
+<thead>
+<tr>
+<th>中文</th>
+<th>英文</th>
+<th>简写</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>标志</td>
+<td>logo</td>
+<td>-</td>
+</tr>
+<tr>
+<td>搜索</td>
+<td>search</td>
+<td>-</td>
+</tr>
+<tr>
+<td>横幅</td>
+<td>banner</td>
+<td>-</td>
+</tr>
+<tr>
+<td>摘要</td>
+<td>summary</td>
+<td>-</td>
+</tr>
+<tr>
+<td>关于</td>
+<td>about</td>
+<td>-</td>
+</tr>
+<tr>
+<td>友情链接</td>
+<td>friendlink</td>
+<td>-</td>
+</tr>
+<tr>
+<td>关于、关于我们</td>
+<td>about</td>
+<td>-</td>
+</tr>
+<tr>
+<td>版权</td>
+<td>copyright</td>
+<td>-</td>
+</tr>
+<tr>
+<td>列表</td>
+<td>list</td>
+<td>-</td>
+</tr>
+<tr>
+<td>滚动</td>
+<td>scroll</td>
+<td>-</td>
+</tr>
+<tr>
+<td>消息</td>
+<td>message</td>
+<td>msg</td>
+</tr>
+<tr>
+<td>公告</td>
+<td>notice</td>
+<td>-</td>
+</tr>
+<tr>
+<td>信息</td>
+<td>information</td>
+<td>info</td>
+</tr>
+<tr>
+<td>加入</td>
+<td>join</td>
+<td>-</td>
+</tr>
+<tr>
+<td>加入我们</td>
+<td>joinus</td>
+<td>-</td>
+</tr>
+<tr>
+<td>状态</td>
+<td>status</td>
+<td>-</td>
+</tr>
+<tr>
+<td>当前</td>
+<td>current</td>
+<td>-</td>
+</tr>
+<tr>
+<td>小技巧</td>
+<td>tips</td>
+<td>-</td>
+</tr>
+<tr>
+<td>指南</td>
+<td>guide</td>
+<td>-</td>
+</tr>
+<tr>
+<td>图标</td>
+<td>icon</td>
+<td>-</td>
+</tr>
+<tr>
+<td>服务</td>
+<td>service</td>
+<td>-</td>
+</tr>
+<tr>
+<td>主题</td>
+<td>theme</td>
+<td>-</td>
+</tr>
+<tr>
+<td>注释</td>
+<td>note</td>
+<td>-</td>
+</tr>
+<tr>
+<td>新闻</td>
+<td>news</td>
+<td>-</td>
+</tr>
+<tr>
+<td>热点</td>
+<td>hot</td>
+<td>-</td>
+</tr>
+<tr>
+<td>合作伙伴</td>
+<td>partner</td>
+<td>-</td>
+</tr>
+<tr>
+<td>链接</td>
+<td>link</td>
+<td>-</td>
+</tr>
+<tr>
+<td>密码</td>
+<td>password</td>
+<td>passwd</td>
+</tr>
+<tr>
+<td>标签</td>
+<td>tag</td>
+<td>-</td>
+</tr>
+<tr>
+<td>值</td>
+<td>value</td>
+<td>-</td>
+</tr>
+<tr>
+<td>优惠券</td>
+<td>coupon</td>
+<td>-</td>
+</tr>
+<tr>
+<td>货品</td>
+<td>goods</td>
+<td>-</td>
+</tr>
+<tr>
+<td>商品</td>
+<td>product</td>
+<td>-</td>
+</tr>
+<tr>
+<td>购物车</td>
+<td>cart</td>
+<td>-</td>
+</tr>
+<tr>
+<td>商店</td>
+<td>shop</td>
+<td>-</td>
+</tr>
+<tr>
+<td>色板</td>
+<td>palette</td>
+<td>-</td>
+</tr>
+<tr>
+<td>字体</td>
+<td>font</td>
+<td>-</td>
+</tr>
+<tr>
+<td>文字</td>
+<td>text</td>
+<td>-</td>
+</tr>
+<tr>
+<td>资料</td>
+<td>profile</td>
+<td>-</td>
+</tr>
+<tr>
+<td>头像</td>
+<td>avatar</td>
+<td>-</td>
+</tr>
+<tr>
+<td>名称、姓名</td>
+<td>name</td>
+<td>-</td>
+</tr>
+<tr>
+<td>昵称</td>
+<td>nickname</td>
+<td>-</td>
+</tr>
+<tr>
+<td>个人简介</td>
+<td>biography</td>
+<td>bio</td>
+</tr>
+<tr>
+<td>作者</td>
+<td>author</td>
+<td>-</td>
+</tr>
+<tr>
+<td>年龄</td>
+<td>age</td>
+<td>-</td>
+</tr>
+<tr>
+<td>地址</td>
+<td>location、address</td>
+<td>-</td>
+</tr>
+<tr>
+<td>手机</td>
+<td>phone</td>
+<td>-</td>
+</tr>
+<tr>
+<td>电话</td>
+<td>telephone</td>
+<td>tel</td>
+</tr>
+<tr>
+<td>积分</td>
+<td>score</td>
+<td>-</td>
+</tr>
+<tr>
+<td>网站、网址</td>
+<td>website</td>
+<td>-</td>
+</tr>
+<tr>
+<td>任务</td>
+<td>task</td>
+<td>-</td>
+</tr>
+<tr>
+<td>勋章、徽章</td>
+<td>badge</td>
+<td>-</td>
+</tr>
+<tr>
+<td>工具</td>
+<td>tool</td>
+<td>-</td>
+</tr>
+<tr>
+<td>图片</td>
+<td>image</td>
+<td>img</td>
+</tr>
+</tbody>
+</table>
+<h3 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h3><table>
+<thead>
+<tr>
+<th>中文</th>
+<th>英文</th>
+<th>简写</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>下载</td>
+<td>download</td>
+<td>-</td>
+</tr>
+<tr>
+<td>上传</td>
+<td>upload</td>
+<td>-</td>
+</tr>
+<tr>
+<td>分享</td>
+<td>share</td>
+<td>-</td>
+</tr>
+<tr>
+<td>赞、点赞</td>
+<td>like</td>
+<td>-</td>
+</tr>
+<tr>
+<td>收藏</td>
+<td>collect</td>
+<td>-</td>
+</tr>
+<tr>
+<td>举报</td>
+<td>report</td>
+<td>-</td>
+</tr>
+<tr>
+<td>编辑</td>
+<td>edit</td>
+<td>-</td>
+</tr>
+<tr>
+<td>删除</td>
+<td>delete</td>
+<td>del</td>
+</tr>
+<tr>
+<td>移动</td>
+<td>move</td>
+<td>mv</td>
+</tr>
+<tr>
+<td>选择</td>
+<td>select</td>
+<td>-</td>
+</tr>
+<tr>
+<td>投票</td>
+<td>vote</td>
+<td>-</td>
+</tr>
+<tr>
+<td>登录</td>
+<td>login</td>
+<td>-</td>
+</tr>
+<tr>
+<td>注册</td>
+<td>sign up</td>
+<td>-</td>
+</tr>
+<tr>
+<td>同意</td>
+<td>agree</td>
+<td>-</td>
+</tr>
+<tr>
+<td>确认</td>
+<td>confirm</td>
+<td>-</td>
+</tr>
+<tr>
+<td>取消</td>
+<td>cancel</td>
+<td>-</td>
+</tr>
+<tr>
+<td>是</td>
+<td>yes</td>
+<td>-</td>
+</tr>
+<tr>
+<td>否</td>
+<td>no</td>
+<td>-</td>
+</tr>
+<tr>
+<td>发表</td>
+<td>publish</td>
+<td>-</td>
+</tr>
+<tr>
+<td>发送</td>
+<td>send</td>
+<td>-</td>
+</tr>
+<tr>
+<td>评论</td>
+<td>comment</td>
+</tr>
+<tr>
+<td>回复</td>
+<td>reply</td>
+<td>-</td>
+</tr>
+<tr>
+<td>更多</td>
+<td>more</td>
+<td>-</td>
+</tr>
+<tr>
+<td>关闭</td>
+<td>close</td>
+<td>-</td>
+</tr>
+<tr>
+<td>推送</td>
+<td>push</td>
+<td>-</td>
+</tr>
+<tr>
+<td>拉去</td>
+<td>pull</td>
+<td>-</td>
+</tr>
+<tr>
+<td>点击</td>
+<td>click</td>
+<td>-</td>
+</tr>
+<tr>
+<td>设置</td>
+<td>setting</td>
+<td>set</td>
+</tr>
+</tbody>
+</table>
+<h3 id="修饰、状态"><a href="#修饰、状态" class="headerlink" title="修饰、状态"></a>修饰、状态</h3><table>
+<thead>
+<tr>
+<th>中文</th>
+<th>英文</th>
+<th>简写</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>常态</td>
+<td>normal</td>
+<td>nor</td>
+</tr>
+<tr>
+<td>鼠标悬停</td>
+<td>hover</td>
+<td>-</td>
+</tr>
+<tr>
+<td>激活</td>
+<td>active</td>
+<td>-</td>
+</tr>
+<tr>
+<td>禁用</td>
+<td>disabled</td>
+<td>dis</td>
+</tr>
+<tr>
+<td>警告</td>
+<td>warning</td>
+<td>-</td>
+</tr>
+<tr>
+<td>危险</td>
+<td>danger</td>
+<td>-</td>
+</tr>
+<tr>
+<td>错误</td>
+<td>error</td>
+<td>-</td>
+</tr>
+<tr>
+<td>成功</td>
+<td>success</td>
+<td>-</td>
+</tr>
+<tr>
+<td>失败</td>
+<td>fail</td>
+<td>-</td>
+</tr>
+<tr>
+<td>加载</td>
+<td>loading</td>
+<td>-</td>
+</tr>
+<tr>
+<td>大</td>
+<td>large</td>
+<td>lg</td>
+</tr>
+<tr>
+<td>中</td>
+<td>middle</td>
+<td>md</td>
+</tr>
+<tr>
+<td>小</td>
+<td>small</td>
+<td>sm</td>
+</tr>
+<tr>
+<td>额外的</td>
+<td>extra</td>
+<td>x</td>
+</tr>
+</tbody>
+</table>
+<h3 id="常用图标"><a href="#常用图标" class="headerlink" title="常用图标"></a>常用图标</h3><blockquote>
+<p>图标直接翻译为其形状名称，避免同一个图标表示不同含义而出现混乱。比如说心形，可以表示喜欢、赞、收藏、爱、等含义，星形可以表示收藏、等级等含义，按照含义翻译会出现一个图标有多重名称的情况，不方便图标库的管理。<br>对于没有歧义，通用的图标优先使用通用含义进行翻译。比所说放大镜通常用来搜索，此处翻译为search，纸飞机通常用来表示发送的含义，则翻译为send，而非paper-plane  </p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>中文</th>
+<th>英文</th>
+<th>简写</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>通讯录</td>
+<td>address-book</td>
+<td>-</td>
+</tr>
+<tr>
+<td>照相机</td>
+<td>camera</td>
+<td>-</td>
+</tr>
+<tr>
+<td>存档</td>
+<td>archive</td>
+<td>-</td>
+</tr>
+<tr>
+<td>银行</td>
+<td>bank</td>
+<td>-</td>
+</tr>
+<tr>
+<td>电池</td>
+<td>battery</td>
+<td>-</td>
+</tr>
+<tr>
+<td>床</td>
+<td>bed</td>
+<td>-</td>
+</tr>
+<tr>
+<td>啤酒</td>
+<td>beer</td>
+<td>-</td>
+</tr>
+<tr>
+<td>铃铛</td>
+<td>bell</td>
+<td>-</td>
+</tr>
+<tr>
+<td>生日</td>
+<td>birthday</td>
+<td>-</td>
+</tr>
+<tr>
+<td>蓝牙</td>
+<td>bluetooth</td>
+<td>-</td>
+</tr>
+<tr>
+<td>炸弹</td>
+<td>bomb</td>
+<td>-</td>
+</tr>
+<tr>
+<td>书、书籍</td>
+<td>book</td>
+<td>-</td>
+</tr>
+<tr>
+<td>书签</td>
+<td>bookmark</td>
+<td>-</td>
+</tr>
+<tr>
+<td>公文包</td>
+<td>briefcase</td>
+<td>-</td>
+</tr>
+<tr>
+<td>故障、程序错误</td>
+<td>bug</td>
+<td>-</td>
+</tr>
+<tr>
+<td>建筑</td>
+<td>building</td>
+<td>-</td>
+</tr>
+<tr>
+<td>扩音器</td>
+<td>bullhorn</td>
+<td>-</td>
+</tr>
+<tr>
+<td>公交车</td>
+<td>bus</td>
+<td>-</td>
+</tr>
+<tr>
+<td>汽车</td>
+<td>car</td>
+<td>-</td>
+</tr>
+<tr>
+<td>火车</td>
+<td>train</td>
+<td>-</td>
+</tr>
+<tr>
+<td>货车</td>
+<td>truck</td>
+<td>-</td>
+</tr>
+<tr>
+<td>飞机</td>
+<td>plane</td>
+<td>-</td>
+</tr>
+<tr>
+<td>地铁</td>
+<td>subway</td>
+<td>-</td>
+</tr>
+<tr>
+<td>自行车</td>
+<td>bicycle</td>
+<td>-</td>
+</tr>
+<tr>
+<td>出租车</td>
+<td>taxi</td>
+<td>-</td>
+</tr>
+<tr>
+<td>摩托车</td>
+<td>motorcycle</td>
+<td>-</td>
+</tr>
+<tr>
+<td>船</td>
+<td>boat、ship</td>
+<td>-</td>
+</tr>
+<tr>
+<td>热气球</td>
+<td>balloon</td>
+<td>-</td>
+</tr>
+<tr>
+<td>日历</td>
+<td>calendar</td>
+<td>-</td>
+</tr>
+<tr>
+<td>照相机</td>
+<td>camera</td>
+<td>-</td>
+</tr>
+<tr>
+<td>购物车</td>
+<td>cart</td>
+<td>-</td>
+</tr>
+<tr>
+<td>包</td>
+<td>bag</td>
+<td>-</td>
+</tr>
+<tr>
+<td>篮子</td>
+<td>basket</td>
+<td>-</td>
+</tr>
+<tr>
+<td>版权</td>
+<td>copyright</td>
+<td>-</td>
+</tr>
+<tr>
+<td>云</td>
+<td>cloud</td>
+<td>-</td>
+</tr>
+<tr>
+<td>雾</td>
+<td>fog</td>
+<td>-</td>
+</tr>
+<tr>
+<td>雨</td>
+<td>rain</td>
+<td>-</td>
+</tr>
+<tr>
+<td>风</td>
+<td>wind</td>
+<td>-</td>
+</tr>
+<tr>
+<td>晴</td>
+<td>sunny</td>
+<td>-</td>
+</tr>
+<tr>
+<td>太阳</td>
+<td>sun</td>
+<td>-</td>
+</tr>
+<tr>
+<td>雪</td>
+<td>snow</td>
+<td>-</td>
+</tr>
+<tr>
+<td>霜</td>
+<td>frost</td>
+<td>-</td>
+</tr>
+<tr>
+<td>雷</td>
+<td>thunder</td>
+<td>-</td>
+</tr>
+<tr>
+<td>对号</td>
+<td>checkmark</td>
+<td>-</td>
+</tr>
+<tr>
+<td>关闭</td>
+<td>close</td>
+<td>-</td>
+</tr>
+<tr>
+<td>警告</td>
+<td>warning</td>
+<td>warn</td>
+</tr>
+<tr>
+<td>齿轮</td>
+<td>cog</td>
+<td>-</td>
+</tr>
+<tr>
+<td>评论</td>
+<td>comment</td>
+<td>-</td>
+</tr>
+<tr>
+<td>信用卡</td>
+<td>credit-card</td>
+<td>-</td>
+</tr>
+<tr>
+<td>裁剪</td>
+<td>crop</td>
+<td>-</td>
+</tr>
+<tr>
+<td>桌面</td>
+<td>desktop</td>
+<td>-</td>
+</tr>
+<tr>
+<td>控制面板</td>
+<td>dashboard</td>
+<td>-</td>
+</tr>
+<tr>
+<td>钻石</td>
+<td>diamond</td>
+<td>-</td>
+</tr>
+<tr>
+<td>编辑</td>
+<td>edit</td>
+<td>-</td>
+</tr>
+<tr>
+<td>删除</td>
+<td>delete</td>
+<td>del</td>
+</tr>
+<tr>
+<td>移动</td>
+<td>move</td>
+<td>mv</td>
+</tr>
+<tr>
+<td>复制</td>
+<td>copy</td>
+<td>-</td>
+</tr>
+<tr>
+<td>粘贴</td>
+<td>paste</td>
+<td>-</td>
+</tr>
+<tr>
+<td>橡皮</td>
+<td>eraser</td>
+<td>-</td>
+</tr>
+<tr>
+<td>上传</td>
+<td>upload</td>
+<td>-</td>
+</tr>
+<tr>
+<td>下载</td>
+<td>download</td>
+<td>-</td>
+</tr>
+<tr>
+<td>分享</td>
+<td>share</td>
+<td>-</td>
+</tr>
+<tr>
+<td>发送</td>
+<td>send</td>
+<td>-</td>
+</tr>
+<tr>
+<td>更多</td>
+<td>more</td>
+<td>-</td>
+</tr>
+<tr>
+<td>菜单</td>
+<td>menu</td>
+<td>-</td>
+</tr>
+<tr>
+<td>举报</td>
+<td>report</td>
+<td>-</td>
+</tr>
+<tr>
+<td>邮件、信封</td>
+<td>mail</td>
+<td>-</td>
+</tr>
+<tr>
+<td>收件箱</td>
+<td>inbox</td>
+<td>-</td>
+</tr>
+<tr>
+<td>邮箱</td>
+<td>mailbox</td>
+<td>-</td>
+</tr>
+<tr>
+<td>眼睛</td>
+<td>eye</td>
+<td>-</td>
+</tr>
+<tr>
+<td>眼镜</td>
+<td>glasses</td>
+<td>-</td>
+</tr>
+<tr>
+<td>交换</td>
+<td>exchange</td>
+<td>-</td>
+</tr>
+<tr>
+<td>外部链接</td>
+<td>external-link</td>
+<td>-</td>
+</tr>
+<tr>
+<td>链接</td>
+<td>link</td>
+<td>-</td>
+</tr>
+<tr>
+<td>信息聚合</td>
+<td>really simple syndication</td>
+<td>rss</td>
+</tr>
+<tr>
+<td>性别</td>
+<td>gender</td>
+<td>-</td>
+</tr>
+<tr>
+<td>男性</td>
+<td>male</td>
+<td>-</td>
+</tr>
+<tr>
+<td>女性</td>
+<td>female</td>
+<td>-</td>
+</tr>
+<tr>
+<td>文件</td>
+<td>file</td>
+<td>-</td>
+</tr>
+<tr>
+<td>视频</td>
+<td>video</td>
+<td>-</td>
+</tr>
+<tr>
+<td>图片</td>
+<td>image</td>
+<td>img</td>
+</tr>
+<tr>
+<td>PDF</td>
+<td>-</td>
+<td>pdf</td>
+</tr>
+<tr>
+<td>压缩文件</td>
+<td>zip</td>
+<td>-</td>
+</tr>
+<tr>
+<td>音频</td>
+<td>sound</td>
+<td>-</td>
+</tr>
+<tr>
+<td>影片</td>
+<td>movie</td>
+<td>-</td>
+</tr>
+<tr>
+<td>筛选</td>
+<td>filter</td>
+<td>-</td>
+</tr>
+<tr>
+<td>文件夹</td>
+<td>folder</td>
+<td>-</td>
+</tr>
+<tr>
+<td>旗</td>
+<td>flag</td>
+<td>-</td>
+</tr>
+<tr>
+<td>游戏</td>
+<td>game</td>
+<td>-</td>
+</tr>
+<tr>
+<td>礼物</td>
+<td>gift</td>
+<td>-</td>
+</tr>
+<tr>
+<td>群组</td>
+<td>group</td>
+<td>-</td>
+</tr>
+<tr>
+<td>杯子</td>
+<td>glass</td>
+<td>-</td>
+</tr>
+<tr>
+<td>地球</td>
+<td>globe</td>
+<td>-</td>
+</tr>
+<tr>
+<td>头戴式耳机</td>
+<td>headphone</td>
+<td>-</td>
+</tr>
+<tr>
+<td>耳机</td>
+<td>earphone</td>
+<td>-</td>
+</tr>
+<tr>
+<td>心</td>
+<td>heart</td>
+<td>-</td>
+</tr>
+<tr>
+<td>历史</td>
+<td>history</td>
+<td>-</td>
+</tr>
+<tr>
+<td>家、主页</td>
+<td>home</td>
+<td>-</td>
+</tr>
+<tr>
+<td>沙漏</td>
+<td>hourglass</td>
+<td>-</td>
+</tr>
+<tr>
+<td>信息</td>
+<td>info</td>
+<td>-</td>
+</tr>
+<tr>
+<td>钥匙</td>
+<td>key</td>
+<td>-</td>
+</tr>
+<tr>
+<td>锁</td>
+<td>lock</td>
+<td>-</td>
+</tr>
+<tr>
+<td>键盘</td>
+<td>keyboard</td>
+<td>-</td>
+</tr>
+<tr>
+<td>语言</td>
+<td>language</td>
+<td>-</td>
+</tr>
+<tr>
+<td>地图</td>
+<td>map</td>
+<td>-</td>
+</tr>
+<tr>
+<td>路标</td>
+<td>map-sign</td>
+<td>-</td>
+</tr>
+<tr>
+<td>地址</td>
+<td>address</td>
+<td>-</td>
+</tr>
+<tr>
+<td>定位</td>
+<td>location</td>
+<td>-</td>
+</tr>
+<tr>
+<td>定位箭头</td>
+<td>location-arrow</td>
+<td>-</td>
+</tr>
+<tr>
+<td>加</td>
+<td>plus</td>
+<td>-</td>
+</tr>
+<tr>
+<td>减</td>
+<td>minus</td>
+<td>-</td>
+</tr>
+<tr>
+<td>乘</td>
+<td>multipy</td>
+<td>-</td>
+</tr>
+<tr>
+<td>除</td>
+<td>divide</td>
+<td>-</td>
+</tr>
+<tr>
+<td>手机</td>
+<td>phone</td>
+<td>-</td>
+</tr>
+<tr>
+<td>电话</td>
+<td>telephone</td>
+<td>tel</td>
+</tr>
+<tr>
+<td>音乐</td>
+<td>music</td>
+<td>-</td>
+</tr>
+<tr>
+<td>铅笔</td>
+<td>pencil</td>
+<td>-</td>
+</tr>
+<tr>
+<td>钢笔</td>
+<td>pen</td>
+<td>-</td>
+</tr>
+<tr>
+<td>关闭</td>
+<td>power-off</td>
+<td>-</td>
+</tr>
+<tr>
+<td>电源</td>
+<td>power</td>
+<td>-</td>
+</tr>
+<tr>
+<td>打开</td>
+<td>power-on</td>
+<td>-</td>
+</tr>
+<tr>
+<td>打印</td>
+<td>print</td>
+<td>-</td>
+</tr>
+<tr>
+<td>二维码</td>
+<td>qrcode</td>
+<td>-</td>
+</tr>
+<tr>
+<td>问题</td>
+<td>question</td>
+<td>-</td>
+</tr>
+<tr>
+<td>引用</td>
+<td>quote</td>
+<td>-</td>
+</tr>
+<tr>
+<td>随机</td>
+<td>random</td>
+<td>-</td>
+</tr>
+<tr>
+<td>刷新</td>
+<td>refresh</td>
+<td>-</td>
+</tr>
+<tr>
+<td>火箭</td>
+<td>rocket</td>
+<td>-</td>
+</tr>
+<tr>
+<td>搜索</td>
+<td>search</td>
+<td>-</td>
+</tr>
+<tr>
+<td>星星</td>
+<td>star</td>
+<td>-</td>
+</tr>
+<tr>
+<td>半星</td>
+<td>half-star</td>
+<td>-</td>
+</tr>
+<tr>
+<td>票</td>
+<td>ticket</td>
+<td>-</td>
+</tr>
+<tr>
+<td>奖杯</td>
+<td>trophy</td>
+<td>-</td>
+</tr>
+<tr>
+<td>用户</td>
+<td>user</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><p> <a href="http://v4-alpha.getbootstrap.com" target="_blank" rel="external">Bootstrap · The most popular HTML, CSS, and JS framework in the world.</a><br><a href="http://fontawesome.io" target="_blank" rel="external">Font Awesome, the iconic font and CSS toolkit</a><br><a href="http://codeguide.bootcss.com/" target="_blank" rel="external">编码规范 by @mdo</a><br><a href="http://www.cnblogs.com/WebShare-hilda/p/4686067.html" target="_blank" rel="external">css模块化思想（一）————命名是个技术活 - 妙瞳 - 博客园</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;中英文互译参考&quot;&gt;&lt;a href=&quot;#中英文互译参考&quot; class=&quot;headerlink&quot; title=&quot;中英文互译参考&quot;&gt;&lt;/a&gt;中英文互译参考&lt;/h1&gt;&lt;h3 id=&quot;页面结构&quot;&gt;&lt;a href=&quot;#页面结构&quot; class=&quot;headerlink&quot; titl
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Daily UI</title>
+    <link href="http://www.ztfer.com/2016/04/21/Daily-UI/"/>
+    <id>http://www.ztfer.com/2016/04/21/Daily-UI/</id>
+    <published>2016-04-21T01:06:00.000Z</published>
+    <updated>2017-01-07T08:31:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="001-Sign-Up"><a href="#001-Sign-Up" class="headerlink" title="001 Sign Up"></a>001 Sign Up</h3><p><a href="https://dribbble.com/shots/2705845-001-Sign-Up" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c7422336336853.57181fc0ec12e.png" alt="ZTfer Daily ui sign up"></a></p>
+<h3 id="002-Credit-Card-Checkout"><a href="#002-Credit-Card-Checkout" class="headerlink" title="002 Credit Card Checkout"></a>002 Credit Card Checkout</h3><p><a href="https://dribbble.com/shots/2705848-002-Credit-Card-Checkout" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bdabdc36337539.57182a2f75cb6.png" alt="ZTfer Daily ui Credit Card Checkout"></a></p>
+<h3 id="003-Landing-Page"><a href="#003-Landing-Page" class="headerlink" title="003 Landing Page"></a>003 Landing Page</h3><p><a href="https://dribbble.com/shots/2705851-003-Landing-Page" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fe568336373289.571979969b98c.png" alt="ZTfer Daily UI Landing Page"></a></p>
+<h3 id="004-Calculator"><a href="#004-Calculator" class="headerlink" title="004 Calculator"></a>004 Calculator</h3><p><a href="https://dribbble.com/shots/2705854-004-Calculator" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9379d436495651.571eba5d22ef6.png" alt="ZTfer Daily UI Calculator"></a></p>
+<h3 id="005-App-Icon"><a href="#005-App-Icon" class="headerlink" title="005 App Icon"></a>005 App Icon</h3><p><a href="https://dribbble.com/shots/2707682-Daily-UI-005-App-Icon" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/adf84236539339.57200d07a80f6.png" alt="ZTfer Daily UI App Icon"></a></p>
+<h3 id="006-User-Profile"><a href="#006-User-Profile" class="headerlink" title="006 User Profile"></a>006 User Profile</h3><p><a href="https://dribbble.com/shots/2707687-Daily-UI-006-User-Profile" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0d091536582509.57215eda6ec55.png" alt="ZTfer Daily UI User Profile"></a></p>
+<h3 id="007-Settings"><a href="#007-Settings" class="headerlink" title="007 Settings"></a>007 Settings</h3><p><a href="https://dribbble.com/shots/2709935-DailyUI-007-Settings" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee0bed36623243.5722b015359e8.png" alt="ZTfer Daily UI Settings"></a></p>
+<h3 id="008-404-page"><a href="#008-404-page" class="headerlink" title="008 404 page"></a>008 404 page</h3><p><a href="https://dribbble.com/shots/2709893-DailyUI-008-404-Page" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3bcf5d36744227.572807e4cfe22.png" alt="ZTfer Daily UI 404 Page"></a></p>
+<h3 id="009-Music-Player"><a href="#009-Music-Player" class="headerlink" title="009 Music Player"></a>009 Music Player</h3><p><a href="https://dribbble.com/shots/2709956-DailyUI-009-Music-Player" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/279f6e36787749.572948fd09193.png" alt="ZTfer Daily UI Music Player"></a></p>
+<h3 id="010-Social-Share"><a href="#010-Social-Share" class="headerlink" title="010 Social Share"></a>010 Social Share</h3><p><a href="https://dribbble.com/shots/2712064-Dailyui-010-Social-Share" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/65b70836828627.572a94587633a.png" alt="ZTfer Daily UI Social Share"></a></p>
+<h3 id="011-Flash-Message"><a href="#011-Flash-Message" class="headerlink" title="011 Flash Message"></a>011 Flash Message</h3><p><a href="https://dribbble.com/shots/2712315-Dailyui-011-Flash-Message" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/74da4936867165.572beab01bd6d.png" alt="ZTfer Daily UI Flash Message"></a></p>
+<h3 id="012-E-Commerce-Shop"><a href="#012-E-Commerce-Shop" class="headerlink" title="012 E-Commerce Shop"></a>012 E-Commerce Shop</h3><p><a href="https://dribbble.com/shots/2712420-Dailyui-012-E-Commerce-Shop" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1154be36935903.572f2a983d923.jpg" alt="ZTfer Daily UI E-Commerce Shop"></a></p>
+<h3 id="013-Direct-Messaging"><a href="#013-Direct-Messaging" class="headerlink" title="013 Direct Messaging"></a>013 Direct Messaging</h3><p><a href="https://dribbble.com/shots/2712637-Dailyui-013-Direct-Messaging" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/341fd836952119.572fdb0c5554b.png" alt="ZTfer Daily UI Direct Messaging"></a></p>
+<h3 id="014-Countdown-Timer"><a href="#014-Countdown-Timer" class="headerlink" title="014 Countdown Timer"></a>014 Countdown Timer</h3><p><a href="https://dribbble.com/shots/2712775-Dailyui-014-Countdown-Timer" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3517ce36993773.573134f0d34c0.png" alt="ZTfer Daily UI Countdown Timer"></a></p>
+<h3 id="015-On-Off-Switch"><a href="#015-On-Off-Switch" class="headerlink" title="015 On/Off Switch"></a>015 On/Off Switch</h3><p><a href="https://dribbble.com/shots/2716529-Dailyui-015-On-Off-Switch" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b8700137041181.57329ba475c91.png" alt="ZTfer Daily UI On/Off Switch"></a></p>
+<h3 id="016-Pop-Up-Overlay"><a href="#016-Pop-Up-Overlay" class="headerlink" title="016 Pop-Up / Overlay"></a>016 Pop-Up / Overlay</h3><p><a href="https://dribbble.com/shots/2716532-Dailyui-016-Pop-Up-Overlay" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0c533e37086523.5733ee7599f3b.png" alt="ZTfer Daily UI Pop-Up Overlay"></a></p>
+<h3 id="017-Email-Receipt"><a href="#017-Email-Receipt" class="headerlink" title="017 Email Receipt"></a>017 Email Receipt</h3><p><a href="https://dribbble.com/shots/2716533-Dailyui-017-Email-Receipt" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c4e88f37129137.573543838ed1c.png" alt="ZTfer DailyUI Daily UI Email Receipt"></a></p>
+<h4 id="018-Analytics-Chart"><a href="#018-Analytics-Chart" class="headerlink" title="018 Analytics Chart"></a>018 Analytics Chart</h4><p><a href="https://dribbble.com/shots/2716539-DailyUI-018-Analytics-Chart" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/62fc4237221175.57395592c157a.gif" alt="ZTfer Daily UI Analytics Chart"></a></p>
+<h3 id="019-LeaderBoard"><a href="#019-LeaderBoard" class="headerlink" title="019 LeaderBoard"></a>019 LeaderBoard</h3><p><a href="https://dribbble.com/shots/2716542-DailyUI-019-Leaderboard" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f2917137236195.5739d44301211.png" alt="ZTfer Daily UI LeaderBoard"></a></p>
+<h3 id="020-Location-Tracker"><a href="#020-Location-Tracker" class="headerlink" title="020 Location Tracker"></a>020 Location Tracker</h3><p><a href="https://dribbble.com/shots/2717525-Dailyui-020-Location-Tracker" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/11043937235825.5739d34a3a15b.png" alt="ZTfer Daily UI Location Tracker"></a></p>
+<h3 id="021-Home-Monitoring-Dashboard"><a href="#021-Home-Monitoring-Dashboard" class="headerlink" title="021 Home Monitoring Dashboard"></a>021 Home Monitoring Dashboard</h3><p><a href="https://dribbble.com/shots/2718756-Dailyui-021-Home-Monitoring-Dashboard" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a9757c37260609.573a74a941dcc.png" alt="ZTfer DailyUI Home Monitoring Dashboard"></a></p>
+<h3 id="022-Search"><a href="#022-Search" class="headerlink" title="022 Search"></a>022 Search</h3><p><a href="https://dribbble.com/shots/2721283-Dailyui-022-Search" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/62307d37304769.573bbfbe9bdda.png" alt="ZTfer DailyUI Search"></a></p>
+<h3 id="023-onBoarding"><a href="#023-onBoarding" class="headerlink" title="023 onBoarding"></a>023 onBoarding</h3><p><a href="https://dribbble.com/shots/2723749-Dailyui-023-Onboarding" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7392a437348039.573d0819a432f.png" alt="ZTfer DailyUI Onboarding"></a></p>
+<h3 id="024-Boarding-Pass"><a href="#024-Boarding-Pass" class="headerlink" title="024 Boarding Pass"></a>024 Boarding Pass</h3><p><a href="https://dribbble.com/shots/2726218-Dailyui-024-Boarding-Pass" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f1687c37389799.573e826406988.png" alt="ZTfer DailyUI 024 Boarding Pass"></a></p>
+<h3 id="025-TV-App"><a href="#025-TV-App" class="headerlink" title="025 TV App"></a>025 TV App</h3><p><a href="https://dribbble.com/shots/2728746-Dailyui-025-Tv-App" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/07f4af37436921.574024a39ca13.png" alt="ZTfer DailyUI Daily UI TV App"></a></p>
+<h3 id="026-Subscribe"><a href="#026-Subscribe" class="headerlink" title="026 Subscribe"></a>026 Subscribe</h3><p><a href="https://dribbble.com/shots/2733076-Dailyui-026-Subscribe" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8d966837528945.57439eb35d67f.png" alt="ZTfer DailyUI Daily UI Subcribe"></a></p>
+<h3 id="027-Dropdown"><a href="#027-Dropdown" class="headerlink" title="027 Dropdown"></a>027 Dropdown</h3><p><a href="https://dribbble.com/shots/2735557-Dailyui-027-Dropdown" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e1ba1537574895.5744ee5e3f094.png" alt="ZTfer DailyUI Daily UI Dropdown"></a></p>
+<h3 id="028-Contact-Us"><a href="#028-Contact-Us" class="headerlink" title="028 Contact Us"></a>028 Contact Us</h3><p><a href="https://dribbble.com/shots/2738169-Dailyui-028-Contact-Us" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/92a01337618367.5746625a7e949.png" alt="ZTfer DailyUI Daily UI Contact Us"></a></p>
+<h3 id="029-Map"><a href="#029-Map" class="headerlink" title="029 Map"></a>029 Map</h3><p><a href="https://dribbble.com/shots/2740537-Dailyui-029-Map" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1a15cc37660157.5747ab2242c6b.png" alt="ZTfer DailyUI Daily UI Map"></a></p>
+<h3 id="030-Pricing"><a href="#030-Pricing" class="headerlink" title="030 Pricing"></a>030 Pricing</h3><p><a href="https://dribbble.com/shots/2746502-Dailyui-030-Pricing" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ff211537795867.574cdb6aa56d6.png" alt="ZTfer DailyUI Daily UI Pricing"></a></p>
+<h3 id="031-File-Upload"><a href="#031-File-Upload" class="headerlink" title="031 File Upload"></a>031 File Upload</h3><p><a href="https://dribbble.com/shots/2748944-Dailyui-031-File-Upload" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f1460c37843337.574e2c145474a.png" alt="ZTfer DailyUI Daily UI File Upload"></a></p>
+<h3 id="032-Crowdfunding-Campaign"><a href="#032-Crowdfunding-Campaign" class="headerlink" title="032 Crowdfunding Campaign"></a>032 Crowdfunding Campaign</h3><p><a href="https://dribbble.com/shots/2751634-Dailyui-032-Crowdfunding-Campaign" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ddee0d37892327.574f9dee42789.png" alt="ZTfer DailyUI Daily UI Crowdfunding Campaign"></a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;001-Sign-Up&quot;&gt;&lt;a href=&quot;#001-Sign-Up&quot; class=&quot;headerlink&quot; title=&quot;001 Sign Up&quot;&gt;&lt;/a&gt;001 Sign Up&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://dribbble.com/shot
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Weekly Design Chlange</title>
+    <link href="http://www.ztfer.com/2016/04/16/Weekly-Design-Chlange/"/>
+    <id>http://www.ztfer.com/2016/04/16/Weekly-Design-Chlange/</id>
+    <published>2016-04-16T15:30:00.000Z</published>
+    <updated>2017-01-07T08:33:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Clock"><a href="#Clock" class="headerlink" title="Clock"></a>Clock</h3><p><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d967b836278207.5716504f0f6d8.png" alt="ZTfer Clock Weekly Design Chlange"></p>
+<h3 id="Pork"><a href="#Pork" class="headerlink" title="Pork"></a>Pork</h3><p><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e52f5836096821.570eeb3ded852.png" alt=" ZTfer Pork"></p>
+<h3 id="credit-card"><a href="#credit-card" class="headerlink" title="credit card"></a>credit card</h3><p><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c7f9635785065.5703c9665729c.jpg" alt="ZTfer credit card"></p>
+<h3 id="Todo-List"><a href="#Todo-List" class="headerlink" title="Todo List"></a>Todo List</h3><p><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/20fb2836216067.57142f69a5d4e.png" alt="ZTfer Todo"></p>
+<h3 id="Moon-Night"><a href="#Moon-Night" class="headerlink" title="Moon Night"></a>Moon Night</h3><p><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4385736196757.571353d24a8f2.png" alt="ZTfer Moon Night"></p>
+<h3 id="Rainbow"><a href="#Rainbow" class="headerlink" title="Rainbow"></a>Rainbow</h3><p><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d154b035555399.56fb7fa5d8568.jpg" alt="ZTfer Rainbow"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Clock&quot;&gt;&lt;a href=&quot;#Clock&quot; class=&quot;headerlink&quot; title=&quot;Clock&quot;&gt;&lt;/a&gt;Clock&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://mir-s3-cdn-cf.behance.net/project_module
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Bootstrap V4 UIKit</title>
+    <link href="http://www.ztfer.com/2016/01/23/Bootstrap-V4-UIKit/"/>
+    <id>http://www.ztfer.com/2016/01/23/Bootstrap-V4-UIKit/</id>
+    <published>2016-01-23T02:44:00.000Z</published>
+    <updated>2017-01-07T08:32:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bootstrap-V4-Uikit by ZTfer</p>
+<p>个人微博： <a href="https://weibo.com/wudu2012" target="_blank" rel="external">@ZTfer</a></p>
+<p>个人博客： <a href="http://www.ztfer.com">www.ztfer.com</a></p>
+<p>Dribbble : <a href="https://dribbble.com/ztfer" target="_blank" rel="external">ZTfer</a></p>
+<h3 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h3><ul>
+<li>bootstrap v4.0 uikit</li>
+<li>包含bootstrap中所有组件，部分预览见下图</li>
+</ul>
+<h3 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h3><p><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Media%20Object.png" alt="Media-Object"><br><img src="https://github.com/ZTfer/Bootstrap-V4-Uikit/blob/master/img/Reboot.png" alt="Reboot"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Typography.png" alt="Typography"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Code.png" alt="Code"></p>
+<p><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Tables.png" alt="Tables"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Figures.png" alt="Figures"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Buttons.png" alt="Buttons"></p>
+<p><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Button%20dropdown.png" alt="Buttons Dorpdown"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Forms.png" alt="Forms"><br><img src="https://github.com/ZTfer/Bootstrap-V4-Uikit/blob/master/img/Input%20group.png" alt="Input-group"><br><img src="https://github.com/ZTfer/Bootstrap-V4-Uikit/blob/master/img/Dropdowns.png" alt="Dropdowns"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Labels.png" alt="Labels"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Alerts.png" alt="Alerts"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Labels.png" alt="Labels"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Cards.png" alt="Cards"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Navs.png" alt="Navs"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Navbar.png" alt="Navbar"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Breadcrumb.png" alt="Breadcrumb"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Pagination.png" alt="Pagination"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Progress.png" alt="Progress"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/List%20group.png" alt="List-group"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Modal.png" alt="Modal"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Scrollspy%20%26%20Tooltips.png" alt="Scrollspy&amp;Tooltips"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Popover%20Collapse.png" alt="Popover&amp;Collapse"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Carousel.png" alt="Carousel"><br><img src="https://raw.githubusercontent.com/ZTfer/Bootstrap-V4-Uikit/master/img/Utility%20classes.png" alt="Utility-classes"></p>
+<h3 id="更新记录"><a href="#更新记录" class="headerlink" title="更新记录"></a>更新记录</h3><ul>
+<li>2016.01.02 创建项目 Media Object，Reboot</li>
+<li>2016.01.03 Typography，Code，Images</li>
+<li>2016.01.04 Table,Figure</li>
+<li>2016.01.05 Buttons</li>
+<li>2016.01.06 Button Group</li>
+<li>2016.01.07 Button dropdown</li>
+<li>2016.01.09 Forms</li>
+<li>2016.01-10 Input-group Dropdowns Jumbptron Labels Alerts</li>
+<li>2016.01.11 Cards</li>
+<li>2016.01.12 Navs Navbar Breadcrumb Pagination Progress</li>
+<li>2016.01.13 List group</li>
+<li>2016.01.14 Modal Scrollspy Tooltips Popovers Collapse Carousel Utility classes</li>
+</ul>
+<h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>Github：<a href="https://github.com/ZTfer/Bootstrap-V4-Uikit" target="_blank">https://github.com/ZTfer/Bootstrap-V4-Uikit</a><br>百度云：<a href="http://pan.baidu.com/s/1i4zXXCL" target="_blank">http://pan.baidu.com/s/1i4zXXCL</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Bootstrap-V4-Uikit by ZTfer&lt;/p&gt;
+&lt;p&gt;个人微博： &lt;a href=&quot;https://weibo.com/wudu2012&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@ZTfer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;个人博客： &lt;a h
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iconfont在多平台多分辨率下使用的优略分析</title>
+    <link href="http://www.ztfer.com/2016/01/23/iconfont%E5%9C%A8%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%A4%9A%E5%88%86%E8%BE%A8%E7%8E%87%E4%B8%8B%E4%BD%BF%E7%94%A8%E7%9A%84%E4%BC%98%E7%95%A5%E5%88%86%E6%9E%90/"/>
+    <id>http://www.ztfer.com/2016/01/23/iconfont在多平台多分辨率下使用的优略分析/</id>
+    <published>2016-01-23T01:41:00.000Z</published>
+    <updated>2017-01-06T17:43:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="由来"><a href="#由来" class="headerlink" title="由来"></a>由来</h3><p>最近在做一个项目时同时在开发Web Android iOS端，而我的设计稿要对这三大平台进行切图，还要对iOS和Android平台不同设备进行适配，工作量有多大就不需要我细说了吧。在这个项目中我和开发同学商量了下，在项目中使用iconfont，从而省去了很多切图的时间，而且因为是矢量图标，在对不同设备进行适配时也不会因为切图问题而使图标变得模糊，降低APP的质量。</p>
+<h3 id="优劣分析"><a href="#优劣分析" class="headerlink" title="优劣分析"></a>优劣分析</h3><h5 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h5><ul>
+<li>多个平台共享一套图标，保证项目在不同平台下体验的一致性</li>
+<li>所有图标都在同一个图标库中，易于管理维护,更新图标时只需要更新相应的字体文件和样式文件即可，不需要再次切出不同尺寸的图片</li>
+<li>所有图标都在一个字体文件中，Web端只需要向服务器请求一次数据即可，不需要请求多张小图标，增加服务器负担，同时也不需要是哦那个较复杂的雪碧图，直接一个class和unicode即可</li>
+<li>图标是矢量图标，不会因为放大缩小而失真。同样是10px的图标在低分辨率的屏幕下显示正常，而在高分辨率下显示就会出现模糊的问题，因为在高分辨率下有可能是使用20px来渲染10px的图片，位图被拉伸就会失真。如果想不失真就只能把图片做大，做大时文件体积便会相应增大，浪费不必要的服务端和客户端性能。中国的国情相比你也懂，看看有少人在吐槽网络慢吧..</li>
+<li>矢量图标的另一个优势便是在网页端我可以写1px，Android可以写1dp，iOS可以写1pt，不同平台下面的单位系统是会对多分辨率屏幕进行不同渲染的，从而省去很多适配时间</li>
+<li>可以减小iOS和Android安装包大小，能省下1M用户在下载APP时便会少花1M的下载时间，要知道，等待时间也是用户体验的一部分</li>
+</ul>
+<h5 id="劣势"><a href="#劣势" class="headerlink" title="劣势"></a>劣势</h5><ul>
+<li>在浏览器端不同浏览器渲染图标时会出现一些问题，<a href="http://www.iconfont.cn/help/iconuse.html" target="_blank" rel="external">这里有解决方法</a></li>
+<li>初次使用可能会遇到一些坑，例如忘记更新字体文件导致无法显示，iOS和Android初次配置不熟练等</li>
+<li>图标只能是单色，实现彩色图标需要叠加图标，比较麻烦</li>
+<li>不支持复杂动画效果</li>
+</ul>
+<h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p>对于低版本浏览器建议用户升级版本<br>彩色图标使用图片或者svg（建议使用svg格式）<br>复杂动画效果需要使用svg格式的矢量图进行解决</p>
+<h3 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h3><p>每种技术都有他相应的优缺点，不会有一种技术同时完美地解决所有问题的，这时候就需要我们搭配使用多种方法来灵活的解决问题，死磕一个问题的话项目的时间也是不会允许的，想想在deadline到来时候手忙脚乱的情形吧😂</p>
+<p>建议各位设计师在项目之初就和我一样建立一个项目图标文件夹，里面放这个项目中用到的矢量图标来进行统一管理。不要用位图，不要用位图，不要用位图，重要的事情说三遍</p>
+<h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><p><a href="http://www.iconfont.cn/help/platform.html" target="_blank" rel="external">iconfont</a><br><a href="https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/UITextView.html#//apple_ref/doc/uid/TP40012857-UITextView" target="_blank" rel="external">Apple Developer</a><br><a href="https://icomoon.io/#docs" target="_blank" rel="external">Icomoon</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;由来&quot;&gt;&lt;a href=&quot;#由来&quot; class=&quot;headerlink&quot; title=&quot;由来&quot;&gt;&lt;/a&gt;由来&lt;/h3&gt;&lt;p&gt;最近在做一个项目时同时在开发Web Android iOS端，而我的设计稿要对这三大平台进行切图，还要对iOS和Android平台不同设备进
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>weui-sketch</title>
+    <link href="http://www.ztfer.com/2016/01/22/WeUI-UIkit/"/>
+    <id>http://www.ztfer.com/2016/01/22/WeUI-UIkit/</id>
+    <published>2016-01-22T03:40:00.000Z</published>
+    <updated>2017-01-06T17:42:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>weui sketch&amp;PSD by ZTfer</p>
+<p>微信官方仓库地址：<a href="https://github.com/weui/weui" target="_blank" rel="external">weiui</a></p>
+<p>个人微博： <a href="http://weibo.com/wudu2012" target="_blank" rel="external">@ZTfer</a></p>
+<p>个人博客： <a href="http://www.ztfer.com">www.ztfer.com</a></p>
+<p>Dribbble : <a href="https://dribbble.com/ztfer" target="_blank" rel="external">ZTfer</a></p>
+<h3 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h3><ul>
+<li><p>最近看到微信开源了weui，方便了广大开发者的使用，在找了大半天以后还是没找到这款开源框架的源设计稿。对于一些不懂代码的设计师来说，如果没有一个方便的uikit来使用，从项目开始之初就会浪费掉很多时间，并且在开发中不遵循框架的一些间距等规范，对于后期开发中也会有一部分精力在调试UI界面上，这对项目的开发进度是很不利的。</p>
+</li>
+<li><p>为了大家在deadline到来之前能够从容的进行设计和开发，所以做了这个框架的sketch源文件分享给大家。</p>
+</li>
+<li><p>文件中所有的控件和文字的的尺寸颜色等均取自于weui样式源文件，保障原生性。</p>
+</li>
+<li><p>下载点击上方 Download ZIP。</p>
+</li>
+<li>意见和反馈 有任何意见与问题可以直接在issues上直接提出，在新浪微博<a href="http://weibo.com/wudu2012" target="_blank" rel="external">@ZTfer</a> 和我的邮箱duke207@163.com 也可以直接联系我。</li>
+<li>页面尺寸750*1334</li>
+</ul>
+<h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><ul>
+<li>images文件夹内视@0.5x效果图，Preview文件夹内是@2x效果图</li>
+</ul>
+<h3 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h3><p><img src="/content/images/2016/01/weui-2.png" alt="WEui ZTfer"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Button%400.5x.png" alt="Buttons"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Cell%400.5x.png" alt="Cell"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Toast%400.5x.png" alt="Toast"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Toast_Loading%400.5x.png" alt="Toast_laoding"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Dialog%400.5x.png" alt="Dialog"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Dialog_2%400.5x.png" alt="Dialog_2"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Progress%400.5x.png" alt="Progress"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Message%400.5x.png" alt="Message"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Article%400.5x.png" alt="Article"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/ActionSheet%400.5x.png" alt="ActionSheet"><br><img src="https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Icons%400.5x.png" alt="Icons"></p>
+<h3 id="更新记录"><a href="#更新记录" class="headerlink" title="更新记录"></a>更新记录</h3><ul>
+<li>2015.12.11创建项目</li>
+<li>2015.12.12增加cell</li>
+<li>2015.12.13完成</li>
+<li>微信官方更新后会随时同步更新</li>
+<li>2015.12.13说明文档增加预览图</li>
+<li>2015.12.18增加PSD版本</li>
+<li>2015.12.19PSD版本更新完毕，更新sketch版本中cell页面</li>
+<li>2016.01.21 增加图片上传（sketch版）</li>
+<li>2016.01.22 增加@1x文件，增加色板（sketch），增加图片上传（PSD版）</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;weui sketch&amp;amp;PSD by ZTfer&lt;/p&gt;
+&lt;p&gt;微信官方仓库地址：&lt;a href=&quot;https://github.com/weui/weui&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;weiui&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;个人微博：
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Vim命令合集</title>
+    <link href="http://www.ztfer.com/2016/01/19/Vim%E5%91%BD%E4%BB%A4%E5%90%88%E9%9B%86/"/>
+    <id>http://www.ztfer.com/2016/01/19/Vim命令合集/</id>
+    <published>2016-01-19T13:02:00.000Z</published>
+    <updated>2017-01-06T17:40:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="命令历史"><a href="#命令历史" class="headerlink" title="命令历史"></a>命令历史</h5><p>以:和/开头的命令都有历史纪录，可以首先键入:或/然后按上下箭头来选择某个历史命令。</p>
+<h5 id="启动vim"><a href="#启动vim" class="headerlink" title="启动vim"></a>启动vim</h5><p>在命令行窗口中输入以下命令即可</p>
+<ul>
+<li><code>vim</code> 直接启动vim</li>
+<li><code>vim filename</code> 打开vim并创建名为filename的文件</li>
+</ul>
+<h5 id="文件命令"><a href="#文件命令" class="headerlink" title="文件命令"></a>文件命令</h5><ul>
+<li>打开单个文件<br><code>vim file</code></li>
+<li>同时打开多个文件<br><code>vim file1 file2 file3 ...</code></li>
+<li>在vim窗口中打开一个新文件<br><code>:open file</code></li>
+<li>在新窗口中打开文件<br><code>:split file</code></li>
+<li>切换到下一个文件<br><code>:bn</code></li>
+<li>切换到上一个文件<br><code>:bp</code></li>
+<li>查看当前打开的文件列表，当前正在编辑的文件会用[]括起来。<br><code>:args</code></li>
+<li>打开远程文件，比如ftp或者share folder<br><code>:e ftp://192.168.10.76/abc.txt</code><br><code>:e \\qadrive\test\1.txt</code></li>
+</ul>
+<h5 id="vim的模式"><a href="#vim的模式" class="headerlink" title="vim的模式"></a>vim的模式</h5><p>正常模式（按Esc或Ctrl+[进入） 左下角显示文件名或为空<br>插入模式（按i键进入） 左下角显示–INSERT–<br>可视模式（不知道如何进入） 左下角显示–VISUAL–</p>
+<h5 id="导航命令"><a href="#导航命令" class="headerlink" title="导航命令"></a>导航命令</h5><p>% 括号匹配</p>
+<h5 id="插入命令"><a href="#插入命令" class="headerlink" title="插入命令"></a>插入命令</h5><ul>
+<li><code>i</code> 在当前位置生前插入</li>
+<li><code>I</code> 在当前行首插入</li>
+<li><code>a</code> 在当前位置后插入</li>
+<li><code>A</code> 在当前行尾插入</li>
+<li><code>o</code> 在当前行之后插入一行</li>
+<li><code>O</code> 在当前行之前插入一行</li>
+</ul>
+<h5 id="查找命令"><a href="#查找命令" class="headerlink" title="查找命令"></a>查找命令</h5><ul>
+<li><code>/text</code>　　查找text，按n健查找下一个，按N健查找前一个。</li>
+<li><code>?text</code>　　查找text，反向查找，按n健查找下一个，按N健查找前一个。<blockquote>
+<p>vim中有一些特殊字符在查找时需要转义　　<code>.*[]^%/?~$</code></p>
+</blockquote>
+</li>
+<li><code>:set ignorecase</code>　　忽略大小写的查找</li>
+<li><code>:set noignorecase</code>　　不忽略大小写的查找<blockquote>
+<p>查找很长的词，如果一个词很长，键入麻烦，可以将光标移动到该词上，按<code>*</code>或<code>#</code>键即可以该单词进行搜索，相当于/搜索。而<code>#</code>命令相当于<code>?</code>搜索。</p>
+</blockquote>
+</li>
+<li><code>:set hlsearch</code>　　高亮搜索结果，所有结果都高亮显示，而不是只显示一个匹配。</li>
+<li><code>:set nohlsearch</code>　　关闭高亮搜索显示</li>
+<li><code>:nohlsearch</code>　　关闭当前的高亮显示，如果再次搜索或者按下n或N键，则会再次高亮。</li>
+<li><code>:set incsearch</code>　　逐步搜索模式，对当前键入的字符进行搜索而不必等待键入完成。</li>
+<li><code>:set wrapscan</code>　　重新搜索，在搜索到文件头或尾时，返回继续搜索，默认开启。</li>
+</ul>
+<h5 id="替换命令"><a href="#替换命令" class="headerlink" title="替换命令"></a>替换命令</h5><ul>
+<li><code>ra</code> 将当前字符替换为a，当期字符即光标所在字符。</li>
+<li><code>s/old/new/</code> 用old替换new，替换当前行的第一个匹配</li>
+<li><code>s/old/new/g</code> 用old替换new，替换当前行的所有匹配</li>
+<li><code>%s/old/new/</code> 用old替换new，替换所有行的第一个匹配</li>
+<li><code>%s/old/new/g</code> 用old替换new，替换整个文件的所有匹配</li>
+<li><code>:10,20 s/^/</code>    /g 在第10行知第20行每行前面加四个空格，用于缩进。</li>
+<li><code>ddp</code> 交换光标所在行和其下紧邻的一行。</li>
+</ul>
+<h5 id="移动命令"><a href="#移动命令" class="headerlink" title="移动命令"></a>移动命令</h5><ul>
+<li><code>h</code> 左移一个字符</li>
+<li><code>l</code> 右移一个字符，这个命令很少用，一般用w代替。</li>
+<li><code>k</code> 上移一个字符</li>
+<li><p><code>j</code> 下移一个字符</p>
+<blockquote>
+<p>以上四个命令可以配合数字使用，比如<code>20j</code>就是向下移动20行，<code>5h</code>就是向左移动5个字符，在Vim中，很多命令都可以配合数字使用，比如删除10个字符<code>10x</code>，在当前位置后插入3个！，<code>3a &lt;Esc&gt;</code>，这里的Esc是必须的，否则命令不生效。<br><code>w</code> 向前移动一个单词（光标停在单词首部），如果已到行尾，则转至下一行行首。此命令快，可以代替l命令。</p>
+</blockquote>
+</li>
+<li><p><code>b</code> 向后移动一个单词 <code>2b</code> 向后移动2个单词</p>
+</li>
+<li><code>e</code>，同<code>w</code>，只不过是光标停在单词尾部</li>
+<li><code>ge</code>，同<code>b</code>，光标停在单词尾部。</li>
+<li><code>^</code> 移动到本行第一个非空白字符上。</li>
+<li><code>0</code>（数字0）移动到本行第一个字符上，</li>
+<li><code>&lt;HOME&gt;</code> 移动到本行第一个字符。同0健。</li>
+<li><code>$</code> 移动到行尾 <code>3$</code> 移动到下面3行的行尾</li>
+<li><code>gg</code> 移动到文件头。 = <code>[[</code></li>
+<li><code>G（shift + g）</code> 移动到文件尾。 = <code>]]</code></li>
+<li><code>f（find）</code>命令也可以用于移动，<code>fx</code>将找到光标后第一个为x的字符，<code>3fd</code>将找到第三个为d的字符。</li>
+<li><code>F</code> 同<code>f</code>，反向查找。</li>
+<li>跳到指定行，冒号+行号，回车，比如跳到240行就是 <code>:240</code>回车。另一个方法是行号+G，比如<code>230G</code>跳到230行。</li>
+<li><code>Ctrl + e</code> 向下滚动一行</li>
+<li><code>Ctrl + y</code> 向上滚动一行</li>
+<li><code>Ctrl + d</code> 向下滚动半屏</li>
+<li><code>Ctrl + u</code> 向上滚动半屏</li>
+<li><code>Ctrl + f</code> 向下滚动一屏</li>
+<li><code>Ctrl + b</code> 向上滚动一屏</li>
+</ul>
+<h5 id="撤销和重做"><a href="#撤销和重做" class="headerlink" title="撤销和重做"></a>撤销和重做</h5><ul>
+<li><code>u</code> 撤销（Undo）</li>
+<li><code>U</code> 撤销对整行的操作</li>
+<li><code>Ctrl + r</code> 重做（Redo），即撤销的撤销。</li>
+</ul>
+<h5 id="删除命令"><a href="#删除命令" class="headerlink" title="删除命令"></a>删除命令</h5><ul>
+<li><code>x</code> 删除当前字符</li>
+<li><code>3x</code> 删除当前光标开始向后三个字符</li>
+<li><code>X</code> 删除当前字符的前一个字符。X=dh</li>
+<li><code>dl</code> 删除当前字符， dl=x</li>
+<li><code>dh</code> 删除前一个字符</li>
+<li><code>dd</code> 删除当前行</li>
+<li><code>dj</code> 删除上一行</li>
+<li><code>dk</code> 删除下一行</li>
+<li><code>10d</code> 删除当前行开始的10行。</li>
+<li><code>D</code> 删除当前字符至行尾。D=d$</li>
+<li><code>d$</code> 删除当前字符之后的所有字符（本行）</li>
+<li><code>kdgg</code> 删除当前行之前所有行（不包括当前行）</li>
+<li><code>jdG（jd shift + g)</code>   删除当前行之后所有行（不包括当前行）</li>
+<li><code>:1,10d</code> 删除1-10行</li>
+<li><code>:11,$d</code> 删除11行及以后所有的行</li>
+<li><code>:1,$d</code> 删除所有行</li>
+<li><code>J(shift + j)</code> 删除两行之间的空行，实际上是合并两行。</li>
+</ul>
+<h5 id="拷贝和粘贴"><a href="#拷贝和粘贴" class="headerlink" title="拷贝和粘贴"></a>拷贝和粘贴</h5><ul>
+<li><code>yy</code> 拷贝当前行</li>
+<li><code>nyy</code> 拷贝当前后开始的n行，比如2yy拷贝当前行及其下一行。</li>
+<li><code>p</code>  在当前光标后粘贴,如果之前使用了yy命令来复制一行，那么就在当前行的下一行粘贴。</li>
+<li><code>shift+p</code> 在当前行前粘贴</li>
+<li><code>:1,10 co 20</code> 将1-10行插入到第20行之后。</li>
+<li><code>:1,$ co $</code> 将整个文件复制一份并添加到文件尾部。</li>
+<li>正常模式下按v（逐字）或V（逐行）进入可视模式，然后用jklh命令移动即可选择某些行或字符，再按y即可复制</li>
+<li><code>ddp</code>交换当前行和其下一行</li>
+<li><code>xp</code>交换当前字符和其后一个字符</li>
+</ul>
+<h5 id="剪切命令"><a href="#剪切命令" class="headerlink" title="剪切命令"></a>剪切命令</h5><ul>
+<li>正常模式下按v（逐字）或V（逐行）进入可视模式，然后用jklh命令移动即可选择某些行或字符，再按d即可剪切</li>
+<li>ndd 剪切当前行之后的n行。利用p命令可以对剪切的内容进行粘贴</li>
+<li><code>:1,10d</code> 将1-10行剪切。利用p命令可将剪切后的内容进行粘贴。</li>
+<li><code>:1, 10 m 20</code> 将第1-10行移动到第20行之后。</li>
+</ul>
+<h5 id="退出命令"><a href="#退出命令" class="headerlink" title="退出命令"></a>退出命令</h5><p><code>:wq</code> 保存并退出<br><code>ZZ</code> 保存并退出<br><code>:q!</code> 强制退出并忽略所有更改<br><code>:e!</code> 放弃所有修改，并打开原来文件。</p>
+<h5 id="窗口命令"><a href="#窗口命令" class="headerlink" title="窗口命令"></a>窗口命令</h5><ul>
+<li><code>:split</code>或new 打开一个新窗口，光标停在顶层的窗口上</li>
+<li><code>:split file</code>或:new file 用新窗口打开文件</li>
+<li><code>split</code>打开的窗口都是横向的，使用vsplit可以纵向打开窗口。</li>
+<li><code>Ctrl+ww</code> 移动到下一个窗口</li>
+<li><code>Ctrl+wj</code> 移动到下方的窗口</li>
+<li><code>Ctrl+wk</code> 移动到上方的窗口</li>
+</ul>
+<h5 id="关闭窗口"><a href="#关闭窗口" class="headerlink" title="关闭窗口"></a>关闭窗口</h5><ul>
+<li><code>:close</code> 最后一个窗口不能使用此命令，可以防止意外退出vim。</li>
+<li><code>:q</code> 如果是最后一个被关闭的窗口，那么将退出vim。</li>
+<li><code>ZZ</code> 保存并退出。</li>
+<li><code>:only</code>关闭所有窗口，只保留当前窗口</li>
+</ul>
+<h5 id="录制宏"><a href="#录制宏" class="headerlink" title="录制宏"></a>录制宏</h5><p>按q键加任意字母开始录制，再按q键结束录制（这意味着vim中的宏不可嵌套），使用的时候@加宏名，比如qa。。。q录制名为a的宏，@a使用这个宏。</p>
+<h5 id="执行shell命令"><a href="#执行shell命令" class="headerlink" title="执行shell命令"></a>执行shell命令</h5><ul>
+<li><code>:!command</code></li>
+<li><code>:!ls</code> 列出当前目录下文件</li>
+<li><code>:!perl -c script.pl</code> 检查perl脚本语法，可以不用退出vim，非常方便。</li>
+<li><code>:!perl script.pl</code> 执行perl脚本，可以不用退出vim，非常方便。</li>
+<li><code>:suspend或Ctrl - Z</code> 挂起vim，回到shell，按fg可以返回vim。</li>
+</ul>
+<h5 id="注释命令"><a href="#注释命令" class="headerlink" title="注释命令"></a>注释命令</h5><blockquote>
+<p>perl程序中<code>#</code>开始的行为注释，所以要注释某些行，只需在行首加入<code>#</code></p>
+</blockquote>
+<ul>
+<li><code>3,5 s/^/#/g</code> 注释第3-5行</li>
+<li><code>3,5 s/^#//g</code> 解除3-5行的注释</li>
+<li><code>1,$ s/^/#/g</code> 注释整个文档。</li>
+<li><code>:%s/^/#/g</code> 注释整个文档，此法更快。</li>
+</ul>
+<h5 id="帮助命令"><a href="#帮助命令" class="headerlink" title="帮助命令"></a>帮助命令</h5><ul>
+<li><code>:help or F1</code> 显示整个帮助</li>
+<li><code>:help xxx</code> 显示xxx的帮助，比如 :help i, :help CTRL-[（即Ctrl+[的帮助）。</li>
+<li><code>:help &#39;number&#39;</code> Vim选项的帮助用单引号括起</li>
+<li><code>:help &lt;Esc&gt;</code> 特殊键的帮助用&lt;&gt;扩起</li>
+<li><code>:help -t Vim</code>启动参数的帮助用-</li>
+<li><code>：help i_&lt;Esc&gt;</code> 插入模式下Esc的帮助，某个模式下的帮助用模式_主题的模式<blockquote>
+<p>帮助文件中位于||之间的内容是超链接，可以用<code>Ctrl+]</code>进入链接，<code>Ctrl+o（Ctrl + t</code>）返回</p>
+</blockquote>
+</li>
+</ul>
+<h5 id="其他非编辑命令"><a href="#其他非编辑命令" class="headerlink" title="其他非编辑命令"></a>其他非编辑命令</h5><ul>
+<li><code>.</code> 重复前一次命令</li>
+<li><code>:set ruler?</code> 查看是否设置了ruler，在.vimrc中，使用set命令设制的选项都可以通过这个命令查看</li>
+<li><code>:scriptnames</code> 查看vim脚本文件的位置，比如.vimrc文件，语法文件及plugin等。</li>
+<li><code>:set list</code> 显示非打印字符，如tab，空格，行尾等。如果tab无法显示，请确定用set lcs=tab:&gt;-命令设置了.vimrc文件，并确保你的文件中的确有tab，如果开启了expendtab，那么tab将被扩展为空格。</li>
+</ul>
+<h5 id="Vim教程"><a href="#Vim教程" class="headerlink" title="Vim教程"></a>Vim教程</h5><p>在Unix系统上</p>
+<ul>
+<li><code>$ vimtutor</code></li>
+</ul>
+<p>在Windows系统上</p>
+<ul>
+<li><code>:help tutor</code></li>
+<li><code>:syntax</code> 列出已经定义的语法项</li>
+<li><code>:syntax clear</code> 清除已定义的语法规则</li>
+<li><code>:syntax case match</code> 大小写敏感，int和Int将视为不同的语法元素</li>
+<li><code>:syntax case ignore</code> 大小写无关，int和Int将视为相同的语法元素，并使用同样的配色方案</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h5 id=&quot;命令历史&quot;&gt;&lt;a href=&quot;#命令历史&quot; class=&quot;headerlink&quot; title=&quot;命令历史&quot;&gt;&lt;/a&gt;命令历史&lt;/h5&gt;&lt;p&gt;以:和/开头的命令都有历史纪录，可以首先键入:或/然后按上下箭头来选择某个历史命令。&lt;/p&gt;
+&lt;h5 id=&quot;启动vim&quot;&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Weekly Design Chlange</title>
+    <link href="http://www.ztfer.com/2016/01/19/%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>http://www.ztfer.com/2016/01/19/开始的开始/</id>
+    <published>2016-01-19T06:48:00.000Z</published>
+    <updated>2017-01-06T17:36:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>要开始写博客了，在正式开写之前不说点什么总是感觉怪怪的，这也就是这篇文字的由来</p>
+<p>要开始写博客的想法是很久之前就有的，只是最近一个月才提上日程，给自己规定了个deadline，一月一号正式上线，留了一个月左右的准备时间，现在看来确实足够了。</p>
+<p>记得七八月分的时候在阿里云弄了个免费两年的服务器，又买了三个域名，而最近在用的时候发现，真心好坑。备案的时候一个域名只能绑定一个服务器（如果可以绑定多个域名欢迎告诉我怎么折腾），而我最喜欢的ZTfer.com这个域名偏偏无法备案，无奈之下只好转投亚马逊AWS门下。搭建博客的时候一路走来感觉很顺，各种一键安装，觉得，不愧是亚马逊，办起事来就是实在，以后就直接用亚马逊服务器算了，可是，可是，我还是想多了。博客下面那个bitnami的图片是什么鬼，SSH又是什么鬼，keychain呢？Permission denied (publickey)呢？写CSS都去不掉，我就…</p>
+<p>期间又试用了jekyll hexo，但是，但是，Terminal各种报错..我还是写我的静态网页吧。话又说回来，我写静态网页的话我的文章我的资源要怎么管理，刚开始还行，要是时间长了，我要怎么去管理这一大堆东西，心累。。好在最后找了个香港的服务器，博客才算是正式搭建起来，建好数据库，安装好Wordpress，以及各种插件和主题，博客，终于成型了。</p>
+<p>听说百度有个免费云加速，听说七牛有个免费CDN，恩，一切听起来都是那么美好，页面中的样式全没了啊摔。。</p>
+<p>我总结了一点，测试，真的很重要，在此，感谢那些参与内测的朋友们，多谢你们的帮助和提出的问题，不然，我的博客真的会在上线后出现各种问题的。</p>
+<p>Finally..</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;要开始写博客了，在正式开写之前不说点什么总是感觉怪怪的，这也就是这篇文字的由来&lt;/p&gt;
+&lt;p&gt;要开始写博客的想法是很久之前就有的，只是最近一个月才提上日程，给自己规定了个deadline，一月一号正式上线，留了一个月左右的准备时间，现在看来确实足够了。&lt;/p&gt;
+&lt;p&gt;记得七
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.ztfer.com/2016/01/10/hello-world/"/>
+    <id>http://www.ztfer.com/2016/01/10/hello-world/</id>
+    <published>2016-01-10T04:36:40.000Z</published>
+    <updated>2017-01-06T17:38:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,20 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> iconfont在多平台多分辨率下使用的优略分析 · ZThought</title><meta name="description" content="iconfont在多平台多分辨率下使用的优略分析 - ZTfer"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="http://www.ztfer.com/atom.xml" title="ZThought"></head><body><div class="wrap"><header><a href="/" class="logo-link"><img src="/favicon.png" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">BLOG</a></li><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">ARCHIVE</a></li><li class="nav-list-item"><a href="http://dribbble.com/ZTfer" target="_blank" class="nav-list-link">DRIBBBLE</a></li><li class="nav-list-item"><a href="http://weibo.com/wudu2012" target="_blank" class="nav-list-link">WEIBO</a></li><li class="nav-list-item"><a href="https://github.com/ZTfer" target="_blank" class="nav-list-link">GITHUB</a></li><li class="nav-list-item"><a href="/atom.xml" target="_self" class="nav-list-link">RSS</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">iconfont在多平台多分辨率下使用的优略分析</h1><div class="post-info">Jan 23, 2016</div><div class="post-content"><h3 id="由来"><a href="#由来" class="headerlink" title="由来"></a>由来</h3><p>最近在做一个项目时同时在开发Web Android iOS端，而我的设计稿要对这三大平台进行切图，还要对iOS和Android平台不同设备进行适配，工作量有多大就不需要我细说了吧。在这个项目中我和开发同学商量了下，在项目中使用iconfont，从而省去了很多切图的时间，而且因为是矢量图标，在对不同设备进行适配时也不会因为切图问题而使图标变得模糊，降低APP的质量。</p>
+<h3 id="优劣分析"><a href="#优劣分析" class="headerlink" title="优劣分析"></a>优劣分析</h3><h5 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h5><ul>
+<li>多个平台共享一套图标，保证项目在不同平台下体验的一致性</li>
+<li>所有图标都在同一个图标库中，易于管理维护,更新图标时只需要更新相应的字体文件和样式文件即可，不需要再次切出不同尺寸的图片</li>
+<li>所有图标都在一个字体文件中，Web端只需要向服务器请求一次数据即可，不需要请求多张小图标，增加服务器负担，同时也不需要是哦那个较复杂的雪碧图，直接一个class和unicode即可</li>
+<li>图标是矢量图标，不会因为放大缩小而失真。同样是10px的图标在低分辨率的屏幕下显示正常，而在高分辨率下显示就会出现模糊的问题，因为在高分辨率下有可能是使用20px来渲染10px的图片，位图被拉伸就会失真。如果想不失真就只能把图片做大，做大时文件体积便会相应增大，浪费不必要的服务端和客户端性能。中国的国情相比你也懂，看看有少人在吐槽网络慢吧..</li>
+<li>矢量图标的另一个优势便是在网页端我可以写1px，Android可以写1dp，iOS可以写1pt，不同平台下面的单位系统是会对多分辨率屏幕进行不同渲染的，从而省去很多适配时间</li>
+<li>可以减小iOS和Android安装包大小，能省下1M用户在下载APP时便会少花1M的下载时间，要知道，等待时间也是用户体验的一部分</li>
+</ul>
+<h5 id="劣势"><a href="#劣势" class="headerlink" title="劣势"></a>劣势</h5><ul>
+<li>在浏览器端不同浏览器渲染图标时会出现一些问题，<a href="http://www.iconfont.cn/help/iconuse.html" target="_blank" rel="external">这里有解决方法</a></li>
+<li>初次使用可能会遇到一些坑，例如忘记更新字体文件导致无法显示，iOS和Android初次配置不熟练等</li>
+<li>图标只能是单色，实现彩色图标需要叠加图标，比较麻烦</li>
+<li>不支持复杂动画效果</li>
+</ul>
+<h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p>对于低版本浏览器建议用户升级版本<br>彩色图标使用图片或者svg（建议使用svg格式）<br>复杂动画效果需要使用svg格式的矢量图进行解决</p>
+<h3 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h3><p>每种技术都有他相应的优缺点，不会有一种技术同时完美地解决所有问题的，这时候就需要我们搭配使用多种方法来灵活的解决问题，死磕一个问题的话项目的时间也是不会允许的，想想在deadline到来时候手忙脚乱的情形吧😂</p>
+<p>建议各位设计师在项目之初就和我一样建立一个项目图标文件夹，里面放这个项目中用到的矢量图标来进行统一管理。不要用位图，不要用位图，不要用位图，重要的事情说三遍</p>
+<h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><p><a href="http://www.iconfont.cn/help/platform.html" target="_blank" rel="external">iconfont</a><br><a href="https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/UITextView.html#//apple_ref/doc/uid/TP40012857-UITextView" target="_blank" rel="external">Apple Developer</a><br><a href="https://icomoon.io/#docs" target="_blank" rel="external">Icomoon</a></p>
+</div></article></div></main><footer><div class="paginator"><a href="/2016/01/23/Bootstrap-V4-UIKit/" class="prev">上一篇</a><a href="/2016/01/22/WeUI-UIkit/" class="next">下一篇</a></div><div class="copyright"><p>© 2015 - 2017 <a href="http://www.ztfer.com">ZTfer</a></p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script></body></html>
