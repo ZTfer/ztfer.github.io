@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.ztfer.com/"/>
-  <updated>2017-01-06T04:20:48.000Z</updated>
+  <updated>2017-01-18T02:23:42.000Z</updated>
   <id>http://www.ztfer.com/</id>
   
   <author>
@@ -19,10 +19,10 @@
     <title>中英文互译参考</title>
     <link href="http://www.ztfer.com/2017/01/06/%E4%B8%AD%E8%8B%B1%E6%96%87%E4%BA%92%E8%AF%91%E5%8F%82%E8%80%83/"/>
     <id>http://www.ztfer.com/2017/01/06/中英文互译参考/</id>
-    <published>2017-01-06T04:18:31.000Z</published>
-    <updated>2017-01-06T04:20:48.000Z</updated>
+    <published>2017-01-06T12:06:00.000Z</published>
+    <updated>2017-01-18T02:23:42.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="中英文互译参考"><a href="#中英文互译参考" class="headerlink" title="中英文互译参考"></a>中英文互译参考</h1><h3 id="页面结构"><a href="#页面结构" class="headerlink" title="页面结构"></a>页面结构</h3><table>
+    <content type="html"><![CDATA[<h3 id="页面结构"><a href="#页面结构" class="headerlink" title="页面结构"></a>页面结构</h3><table>
 <thead>
 <tr>
 <th>中文</th>
@@ -1471,7 +1471,14 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;中英文互译参考&quot;&gt;&lt;a href=&quot;#中英文互译参考&quot; class=&quot;headerlink&quot; title=&quot;中英文互译参考&quot;&gt;&lt;/a&gt;中英文互译参考&lt;/h1&gt;&lt;h3 id=&quot;页面结构&quot;&gt;&lt;a href=&quot;#页面结构&quot; class=&quot;headerlink&quot; titl
+      &lt;h3 id=&quot;页面结构&quot;&gt;&lt;a href=&quot;#页面结构&quot; class=&quot;headerlink&quot; title=&quot;页面结构&quot;&gt;&lt;/a&gt;页面结构&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;中文&lt;/th&gt;
+&lt;th&gt;英文&lt;/th&gt;
+&lt;th&gt;简写&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/
     
     </summary>
     
@@ -1557,9 +1564,10 @@
     <link href="http://www.ztfer.com/2016/01/23/Bootstrap-V4-UIKit/"/>
     <id>http://www.ztfer.com/2016/01/23/Bootstrap-V4-UIKit/</id>
     <published>2016-01-23T02:44:00.000Z</published>
-    <updated>2017-01-07T08:32:36.000Z</updated>
+    <updated>2017-01-18T02:26:44.000Z</updated>
     
     <content type="html"><![CDATA[<p>Bootstrap-V4-Uikit by ZTfer</p>
+<a id="more"></a>
 <p>个人微博： <a href="https://weibo.com/wudu2012" target="_blank" rel="external">@ZTfer</a></p>
 <p>个人博客： <a href="http://www.ztfer.com">www.ztfer.com</a></p>
 <p>Dribbble : <a href="https://dribbble.com/ztfer" target="_blank" rel="external">ZTfer</a></p>
@@ -1590,8 +1598,6 @@
     <summary type="html">
     
       &lt;p&gt;Bootstrap-V4-Uikit by ZTfer&lt;/p&gt;
-&lt;p&gt;个人微博： &lt;a href=&quot;https://weibo.com/wudu2012&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@ZTfer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;个人博客： &lt;a h
     
     </summary>
     
@@ -1603,9 +1609,10 @@
     <link href="http://www.ztfer.com/2016/01/23/iconfont%E5%9C%A8%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%A4%9A%E5%88%86%E8%BE%A8%E7%8E%87%E4%B8%8B%E4%BD%BF%E7%94%A8%E7%9A%84%E4%BC%98%E7%95%A5%E5%88%86%E6%9E%90/"/>
     <id>http://www.ztfer.com/2016/01/23/iconfont在多平台多分辨率下使用的优略分析/</id>
     <published>2016-01-23T01:41:00.000Z</published>
-    <updated>2017-01-06T17:43:30.000Z</updated>
+    <updated>2017-01-18T02:25:16.000Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="由来"><a href="#由来" class="headerlink" title="由来"></a>由来</h3><p>最近在做一个项目时同时在开发Web Android iOS端，而我的设计稿要对这三大平台进行切图，还要对iOS和Android平台不同设备进行适配，工作量有多大就不需要我细说了吧。在这个项目中我和开发同学商量了下，在项目中使用iconfont，从而省去了很多切图的时间，而且因为是矢量图标，在对不同设备进行适配时也不会因为切图问题而使图标变得模糊，降低APP的质量。</p>
+    <content type="html"><![CDATA[<p>最近在做一个项目时同时在开发Web Android iOS端，而我的设计稿要对这三大平台进行切图，还要对iOS和Android平台不同设备进行适配，工作量有多大就不需要我细说了吧。在这个项目中我和开发同学商量了下，在项目中使用iconfont，从而省去了很多切图的时间，而且因为是矢量图标，在对不同设备进行适配时也不会因为切图问题而使图标变得模糊，降低APP的质量。</p>
+<a id="more"></a>
 <h3 id="优劣分析"><a href="#优劣分析" class="headerlink" title="优劣分析"></a>优劣分析</h3><h5 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h5><ul>
 <li>多个平台共享一套图标，保证项目在不同平台下体验的一致性</li>
 <li>所有图标都在同一个图标库中，易于管理维护,更新图标时只需要更新相应的字体文件和样式文件即可，不需要再次切出不同尺寸的图片</li>
@@ -1628,7 +1635,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;由来&quot;&gt;&lt;a href=&quot;#由来&quot; class=&quot;headerlink&quot; title=&quot;由来&quot;&gt;&lt;/a&gt;由来&lt;/h3&gt;&lt;p&gt;最近在做一个项目时同时在开发Web Android iOS端，而我的设计稿要对这三大平台进行切图，还要对iOS和Android平台不同设备进
+      &lt;p&gt;最近在做一个项目时同时在开发Web Android iOS端，而我的设计稿要对这三大平台进行切图，还要对iOS和Android平台不同设备进行适配，工作量有多大就不需要我细说了吧。在这个项目中我和开发同学商量了下，在项目中使用iconfont，从而省去了很多切图的时间，而且因为是矢量图标，在对不同设备进行适配时也不会因为切图问题而使图标变得模糊，降低APP的质量。&lt;/p&gt;
     
     </summary>
     
@@ -1640,9 +1647,10 @@
     <link href="http://www.ztfer.com/2016/01/22/WeUI-UIkit/"/>
     <id>http://www.ztfer.com/2016/01/22/WeUI-UIkit/</id>
     <published>2016-01-22T03:40:00.000Z</published>
-    <updated>2017-01-06T17:42:33.000Z</updated>
+    <updated>2017-01-18T02:26:24.000Z</updated>
     
     <content type="html"><![CDATA[<p>weui sketch&amp;PSD by ZTfer</p>
+<a id="more"></a>
 <p>微信官方仓库地址：<a href="https://github.com/weui/weui" target="_blank" rel="external">weiui</a></p>
 <p>个人微博： <a href="http://weibo.com/wudu2012" target="_blank" rel="external">@ZTfer</a></p>
 <p>个人博客： <a href="http://www.ztfer.com">www.ztfer.com</a></p>
@@ -1679,8 +1687,6 @@
     <summary type="html">
     
       &lt;p&gt;weui sketch&amp;amp;PSD by ZTfer&lt;/p&gt;
-&lt;p&gt;微信官方仓库地址：&lt;a href=&quot;https://github.com/weui/weui&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;weiui&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;个人微博：
     
     </summary>
     
@@ -1692,9 +1698,10 @@
     <link href="http://www.ztfer.com/2016/01/19/Vim%E5%91%BD%E4%BB%A4%E5%90%88%E9%9B%86/"/>
     <id>http://www.ztfer.com/2016/01/19/Vim命令合集/</id>
     <published>2016-01-19T13:02:00.000Z</published>
-    <updated>2017-01-06T17:40:10.000Z</updated>
+    <updated>2017-01-18T02:27:04.000Z</updated>
     
-    <content type="html"><![CDATA[<h5 id="命令历史"><a href="#命令历史" class="headerlink" title="命令历史"></a>命令历史</h5><p>以:和/开头的命令都有历史纪录，可以首先键入:或/然后按上下箭头来选择某个历史命令。</p>
+    <content type="html"><![CDATA[<p>Vim命令合集<br><a id="more"></a></p>
+<h5 id="命令历史"><a href="#命令历史" class="headerlink" title="命令历史"></a>命令历史</h5><p>以:和/开头的命令都有历史纪录，可以首先键入:或/然后按上下箭头来选择某个历史命令。</p>
 <h5 id="启动vim"><a href="#启动vim" class="headerlink" title="启动vim"></a>启动vim</h5><p>在命令行窗口中输入以下命令即可</p>
 <ul>
 <li><code>vim</code> 直接启动vim</li>
@@ -1881,8 +1888,7 @@
     
     <summary type="html">
     
-      &lt;h5 id=&quot;命令历史&quot;&gt;&lt;a href=&quot;#命令历史&quot; class=&quot;headerlink&quot; title=&quot;命令历史&quot;&gt;&lt;/a&gt;命令历史&lt;/h5&gt;&lt;p&gt;以:和/开头的命令都有历史纪录，可以首先键入:或/然后按上下箭头来选择某个历史命令。&lt;/p&gt;
-&lt;h5 id=&quot;启动vim&quot;&gt;
+      &lt;p&gt;Vim命令合集&lt;br&gt;
     
     </summary>
     
